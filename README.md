@@ -30,6 +30,7 @@
 - 🔹 **Project Name 6** – GRACE(-FO) Data Water Equivalent Thickness
 - 🔹 **Project Name 7** – Space Science and Geospatial Institute Daycare System
 - 🔹 **Project Name 8** – Addis Ababa City Administration's Fire and Disaster Risk Management portal
+- 🔹 **Project Name 9** – Oromia urban Planning Geospatial portal / Geonode
 - 
 
 👉 More projects on my GitHub repositories
