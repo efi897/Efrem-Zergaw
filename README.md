@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Contact Me
-- Email: youremail@example.com  
-- GitHub: https://github.com/yourusername  
+- Email: zergawefrem@gmail.com  
+- GitHub: https://github.com/efi897
 - LinkedIn: (optional link)
 
 ---
