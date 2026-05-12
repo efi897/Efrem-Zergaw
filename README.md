@@ -25,7 +25,7 @@
 - 🔹 **Project Name 1** – Digital Addressing Sysytem
 - 🔹 **Project Name 2** – Green Legacy
 - 🔹 **Project Name 3** – National Disaster Portal
-- - 🔹 **Project Name 3** – Space Science and Geospatial Institte Website
+- 🔹 **Project Name 3** – Space Science and Geospatial Institte Website
 - 🔹 **Project Name 3** – National Geospatial portal / Geonode
 - 🔹 **Project Name 3** – GRACE(-FO) Data Water Equivalent Thickness
 - 🔹 **Project Name 2** – Space Science and Geospatial Institute Daycare System
