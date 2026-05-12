@@ -13,18 +13,24 @@
 ---
 
 ## 🛠️ Tech Stack
-- Languages: JavaScript, Python, Java  
+- Languages: JavaScript, Python,  
 - Frontend: HTML, CSS, React  
-- Backend: Node.js, Express  
-- Database: MySQL, MongoDB  
+- Backend: Node.js, Express, django 
+- Database: MySQL, MongoDB , postgres/postgis  
 - Tools: Git, GitHub, VS Code  
 
 ---
 
 ## 🚀 Projects
-- 🔹 **Project Name 1** – Short description of what it does  
-- 🔹 **Project Name 2** – Short description of what it does  
-- 🔹 **Project Name 3** – Short description of what it does  
+- 🔹 **Project Name 1** – Digital Addressing Sysytem
+- 🔹 **Project Name 2** – Green Legacy
+- 🔹 **Project Name 3** – National Disaster Portal
+- - 🔹 **Project Name 3** – Space Science and Geospatial Institte Website
+- 🔹 **Project Name 3** – National Geospatial portal / Geonode
+- 🔹 **Project Name 3** – GRACE(-FO) Data Water Equivalent Thickness
+- 🔹 **Project Name 2** – Space Science and Geospatial Institute Daycare System
+- 🔹 **Project Name 2** – Addis Ababa City Administration's Fire and Disaster Risk Management portal
+- 
 
 👉 More projects on my GitHub repositories
 
