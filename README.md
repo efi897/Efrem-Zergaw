@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Passionate about software development and building useful applications  
-- 🌱 Currently learning: Full-stack development and system design  
+- 🌱 Currently : Full-stack development and system design  
 - 🔭 Interested in: Web apps, APIs, and scalable systems  
 - 📍 Based in: Ethiopia  
 
